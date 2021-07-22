@@ -1,7 +1,6 @@
-## Hello, I'm Davi Segundo Pinheiro! <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30">
+## Hello, I'm Davi Segundo Pinheiro! <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="50">
 
-[![Linkedin: Davi Segundo](https://img.shields.io/badge/-DaviSegundo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liviabelirocha/)](https://www.linkedin.com/in/davi-segundo-881401210)
-[![GitHub DaviSegundo](https://img.shields.io/github/followers/DaviSegundo?label=follow&style=social)](https://github.com/DaviSegundo)
+[![Linkedin: Davi Segundo](https://img.shields.io/badge/-DaviSegundo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liviabelirocha/)](https://www.linkedin.com/in/davi-segundo-881401210)  [![GitHub DaviSegundo](https://img.shields.io/github/followers/DaviSegundo?label=follow&style=social)](https://github.com/DaviSegundo)
 
 
 Computer Science student at [Federal University of Ceará](https://cc.ufc.br).
@@ -10,15 +9,19 @@ Developer at Dell Lead.
 
 ### Skills:
 
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> <br/>
+<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> <br/>
 
 ### Machine Learning:
 
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><img alt="SKLERAN" src="https://img.shields.io/badge/sklearn%20-%2335495e.svg?&style=for-the-badge&logo=scikitlearn&logoColor=%234FC08D"/> <br/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><img alt="SKLERAN" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <br/>
 
 ### Version Control:
 
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
+### Data Visualization:
+
+<img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-0078D6?style=for-the-badge&logo=plotly&logoColor=white">
 
 ### Tools:
 
@@ -34,8 +37,8 @@ Developer at Dell Lead.
 
 ### Studying:
 
-<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br/><br/>
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/><br/><br/>
 
-[![liviabelirocha's github stats](https://github-readme-stats.vercel.app/api?username=DaviSegundo&show_icons=true&theme=radical)](https://github.com/DaviSegundo/github-readme-stats)
+[![DaviSegundo github stats](https://github-readme-stats.vercel.app/api?username=DaviSegundo&show_icons=true&theme=radical)](https://github.com/DaviSegundo/github-readme-stats)
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSegundo&layout=compact&theme=radical)
