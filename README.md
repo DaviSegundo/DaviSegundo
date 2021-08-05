@@ -3,6 +3,7 @@
 [![Linkedin: Davi Segundo](https://img.shields.io/badge/-DaviSegundo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liviabelirocha/)](https://www.linkedin.com/in/davi-segundo-881401210)  [![GitHub DaviSegundo](https://img.shields.io/github/followers/DaviSegundo?label=follow&style=social)](https://github.com/DaviSegundo)
 
 ▷ Computer Science student at [Federal University of Ceará](https://cc.ufc.br).
+
 ▷ Developer at Dell Lead.
 
 ### Skills:
@@ -38,7 +39,7 @@
 
 ##### DevOps:
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<br/>
+<br/><br/>
 <p align="center">
 <img alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSegundo&layout=compact&theme=radical"> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DaviSegundo&show_icons=true&theme=radical" height="165">
 </p>
